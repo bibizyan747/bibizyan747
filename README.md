@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on PC
 - 📫 How to reach me -
-- 😄 Pronouns: Monkey
+- 😄 Pronouns: Lewiafan
 - ⚡ Fun fact: Monkey is fun
 
 <!---
